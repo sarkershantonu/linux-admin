@@ -1,0 +1,1 @@
+# wordpress script for setup
