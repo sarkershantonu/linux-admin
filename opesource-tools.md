@@ -27,3 +27,18 @@
 
 # Security : web
 - sandstorm 
+
+# Chat-video-audio Meetings
+- bigbluebutton.org
+- mconf.org
+- linphone.org
+- jitsi.org 
+
+        https://jitsi.org/downloads/
+        https://github.com/jitsi/jitsi-meet/blob/master/doc/quick-install.md
+        https://github.com/jitsi/jitsi-videobridge
+        https://github.com/jitsi/jitsi-meet
+- Riot (https://about.riot.im/features#open-source) 
+- Synapse (https://github.com/matrix-org/synapse)
+- Jami.net 
+- 
