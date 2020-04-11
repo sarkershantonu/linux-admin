@@ -9,6 +9,8 @@
 - invoiceplane
 - InvoiceNinja
 
+# Office 
+- 
 # Sync Storage (dropbox like)
 - nextcloud (https://github.com/sarkershantonu/vm) 
 
@@ -28,6 +30,7 @@
 # Security : web
 - sandstorm 
 
+
 # Chat-video-audio Meetings
 - bigbluebutton.org
 - mconf.org
@@ -42,3 +45,8 @@
 - Synapse (https://github.com/matrix-org/synapse)
 - Jami.net 
 - 
+
+# Other useful projects 
+- opendatakit
+
+
