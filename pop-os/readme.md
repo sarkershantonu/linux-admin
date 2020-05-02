@@ -9,3 +9,5 @@
 # Install VLC player
 
 # Install Dev tool set
+
+# Menu Change : Dash to panel
