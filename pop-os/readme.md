@@ -3,3 +3,9 @@
 # install shell extension
 
     sudo apt install gnome-shell-extensions
+
+# Install OpenVpn client
+
+# Install VLC player
+
+# Install Dev tool set
