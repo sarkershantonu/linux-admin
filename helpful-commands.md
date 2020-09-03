@@ -1,7 +1,7 @@
 # Helpful command in lunux
 
 # To run process in background 
-- Use & in the end. Example: 
+- Use ```&``` in the end. Example: 
 
         tar -czf home.tar.gz . & 
     
